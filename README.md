@@ -4,8 +4,9 @@ IT student at **Deakin College** in Melbourne, starting my **Bachelor of Compute
 I use AI every day to build things, mostly games and tools.
 
 ### 🔨 What I'm building
-- 🧋 **[Sell Bubble Tea!](https://github.com/chanuthgamage/sell-bubble-tea)**: a Roblox tycoon game I'm making with a friend. Luau + Rojo, server-authoritative, with rule tests and a pacing simulator. Built with Claude Code and Roblox Studio MCP.
-- 🤖 **Jarvis**: my own AI assistant on my PC. I hooked it up to different AI providers (Groq, Gemini, NVIDIA) and to Roblox Studio through MCP.
+- 🎮 **Soulbound Incremental**: an anime summoning game I'm building solo on Roblox. Luau + Rojo + Knit, with my own AI pipeline where Claude Code drives Roblox Studio and Blender through MCP. 94 automated tests on the game maths. (Code is private while it's in development.)
+- 📍 **REM ME!**: a location reminder web app (PWA) with GPS geofences, Leaflet maps and notifications.
+- 🤖 **Jarvis**: an open-source voice assistant I set up on my PC, hooked up to different AI providers (Groq, Gemini, NVIDIA) and to Roblox Studio through MCP.
 - 🍳 **Recipe app**: a responsive step-by-step recipe web app for uni (HTML, CSS, JavaScript).
 
 ### 🛠️ Tech I use
@@ -17,6 +18,7 @@ I use AI every day to build things, mostly games and tools.
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📚 Learning
